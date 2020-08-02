@@ -1,0 +1,16 @@
+{
+  "name": "hacker-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Stephan <stephan.startsev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
